@@ -1,0 +1,23 @@
+# Virtual Environment
+zindi_mhp_venv/
+
+# Data files (recommend keeping data outside repo if large)
+# If data is small enough to commit, remove the data/ line
+data/
+*.zip
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
